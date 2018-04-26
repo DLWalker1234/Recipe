@@ -1,6 +1,13 @@
-# Receipe
+# Receipe Book
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
+Allows a user to Add, Edit, Delete a Recipe. Also handles a simple ingredient tracker for the recipes you've added. Built using Angular 2+, Firebase and Bootstrap 3.
+
+# How to Install?
+
+Clone the project to the desired folder in your directory, git clone https://github.com/DLWalker1234/Recipe.git
+
+cd into the folder cd Recipe
+run npm install at the root folder
 
 ## Development server
 
@@ -22,6 +29,8 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+# Developer
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Dustin Walker
+
+<p align="center">&copyDustin Walker 2018 </p>
