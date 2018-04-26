@@ -2,12 +2,16 @@
 
 Allows a user to Add, Edit, Delete a Recipe. Also handles a simple ingredient tracker for the recipes you've added. Built using Angular 2+, Firebase and Bootstrap 3.
 
+<img src="Recipe1.PNG">
+
 # How to Install?
 
 Clone the project to the desired folder in your directory, git clone https://github.com/DLWalker1234/Recipe.git
 
 cd into the folder cd Recipe
 run npm install at the root folder
+
+<img src="recipe2.PNG">
 
 ## Development server
 
